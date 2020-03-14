@@ -1,0 +1,1 @@
+MainClass=ru/ifmo/rain/zhelenskiy/implementor/Implementor.class
