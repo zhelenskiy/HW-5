@@ -3,4 +3,4 @@
 ROOT=$PWD
 cd out/production/ru.ifmo.rain.zhelenskiy.implementor || exit
 java -cp . -p . --module-path "${ROOT}"/artifacts:"${ROOT}"/lib \
-    -m info.kgeorgiy.java.advanced.implementor jar-class ru.ifmo.rain.zhelenskiy.implementor.Implementor $1
+    -m info.kgeorgiy.java.advanced.implementor jar-class ru.ifmo.rain.zhelenskiy.implementor.Implementor "$1"
