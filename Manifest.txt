@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Created-By: 11.0.6 (Ubuntu)
-Main-Class: ru.ifmo.rain.zhelenskiy.implementor.Implementor
